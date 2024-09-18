@@ -17,12 +17,8 @@ export const Aside = () => {
         <div className="p-[18px] w-full flex items-center justify-center border-b border-[#E5E9EB]">
           <img src="/svg/settings.svg" alt="settings" className="w-5 h-5" />
         </div>
-        <div>
-          <img
-            src="/images/avatar.png"
-            alt="settings"
-            className="w-8 h-8 mt-3"
-          />
+        <div className="p-3">
+          <img src="/images/avatar.png" alt="settings" className="w-8 h-8" />
         </div>
       </div>
     </aside>
