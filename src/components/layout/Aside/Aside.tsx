@@ -7,11 +7,7 @@ export const Aside = () => {
         </div>
       </div>
       <div className="p-3">
-        <img
-          src="/images/main-menu.png"
-          alt="menu"
-          className="w-8 h-8 mt-[22px]"
-        />
+        <img src="/images/main-menu.png" alt="menu" className="w-8 h-8" />
       </div>
       <div className="mt-auto flex flex-col items-center">
         <div className="p-[18px] w-full flex items-center justify-center border-b border-[#E5E9EB]">
